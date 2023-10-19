@@ -36,3 +36,4 @@ terraform.rc
 _out/
 kubeconfig
 talosconfig
+.terraform.lock.hcl
